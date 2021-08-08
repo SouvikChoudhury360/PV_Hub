@@ -8,9 +8,9 @@
 
 
 
-<h2> A Blockchain based application for Syndication Loan Sanction. </h2>
+<h2> A Blockchain based Social Media Platform. </h2>
 
-<h1 align="center">Helps in proper loan sanction through Syndication.</h1>
+<h1 align="center">Allows users to post anything & uses transparent algorithm.</h1>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
