@@ -48,9 +48,7 @@
 
 <h2 align="center" id="Inspiration"> :label: Our Inspiration</h2>
 
-Syndicater will **ease the process of loan sanction** through it's working mechanism. The idea was generated during **// DoubleSlash JU Hackathon by Jadavpur University**.
-Our basic motto is to **Simplify the Loan Process and Reduce the Risk.** Also, one thing is to be notesd that the urge of equity market is more than that of debt market in 
-India. So, We, with the help of Syndicator will try to persuade people the importance of debt market and the safeness of using it.
+PV Hub is basically a **censorship free social media platform** which runs on Blockchain mechanism. Here, all the things which are being posted by the user are stored in IPFS cloud. The idea was generated during **HackACode 2021 by DevFolio**. We ensure that there is no possibility of user's data breaching. We believe in-**User's Privacy & Security.**  
 
 
 <i><p align="center"><a href="#content">⬆️ CLICK HERE TO GO BACK TO CONTENTS</a></p></i><br>
