@@ -16,7 +16,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
  ## For Presentation of the Project (website) [Click here](https://www.canva.com/design/DAEmUdXPXNU/A_QkGUEDUVnizizxoT6kEg/view?utm_content=DAEmUdXPXNU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
  
