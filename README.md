@@ -20,8 +20,11 @@
  ## For Presentation of the Project (website) [Click here](https://www.canva.com/design/DAEmUdXPXNU/A_QkGUEDUVnizizxoT6kEg/view?utm_content=DAEmUdXPXNU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
  
  ## Video Demonstration 
+https://user-images.githubusercontent.com/84338935/128629915-85531e21-3144-4c6a-aacc-c656bcc1f6ea.mp4
 
- ## Youtube link for the same [Click here]()
+<br> 
+
+ ## Youtube link for the same [Click here](https://www.youtube.com/watch?v=l9djMq9fuQY&ab_channel=ArghyadipSengupta)
 
 <h2 align="center" id="content"> 🗂 CONTENTS : </h2>
 
@@ -48,7 +51,7 @@
 
 <h2 align="center" id="Inspiration"> :label: Our Inspiration</h2>
 
-PV Hub is basically a **censorship free social media platform** which runs on Blockchain mechanism. Here, all the things which are being posted by the user are stored in IPFS cloud. The idea was generated during **HackACode 2021 by DevFolio**. We ensure that there is no possibility of user's data breaching. We believe in-**User's Privacy & Security.**  
+PV Hub is basically a **censorship free social media platform** which runs on Blockchain mechanism. Here, all the things which are being posted by the user are stored in IPFS cloud. The idea was generated during **HackACode 2021**. We ensure that there is no possibility of user's data breaching. We believe in-**User's Privacy & Security.**  
 
 
 <i><p align="center"><a href="#content">⬆️ CLICK HERE TO GO BACK TO CONTENTS</a></p></i><br>
@@ -287,14 +290,26 @@ Then add a title and description to your pull request that explains your preciou
 
 |||
 |---|---|
-<h3 align="center"> Buy and Sell Page </h3>
+<h3 align="center"> Front Page </h3>
+
+![1) Front page](https://user-images.githubusercontent.com/84338935/128629989-1a495016-46af-4e70-8309-a929c688c906.png)
 
 
-<h3 align="center"> Transaction Processing Page </h3>
+<h3 align="center">  Various Posts of User </h3>
 
+![2) Posts of users](https://user-images.githubusercontent.com/84338935/128630016-9fe95cfb-2e21-40d4-86ff-af1546792bc8.png)
 
-<h3 align="center"> All tests Passed ✔</h3>
+<h3 align="center"> Uploading a Video/GIF </h3>
 
+![3) GIF Being uploaded](https://user-images.githubusercontent.com/84338935/128630040-b551fb9e-d587-4836-a08c-5a899f8d7690.png)
+
+<h3 align="center"> ✔ Successfully been uploaded </h3>
+
+![4) Uploaded Successfully](https://user-images.githubusercontent.com/84338935/128630062-a29bacbd-ca56-4f20-8047-8b4a5f54ad24.png)
+
+<h3 align="center"> Permission from Metamask regarding the transaction </h3>
+
+![5) Link of metamask](https://user-images.githubusercontent.com/84338935/128630092-1084bc9d-162e-42f3-af92-d5ceddb15fcb.png)
 
 <!--|<h3 align="center">Home Page</h3><img width="200" alt="Home Page" src="https://drive.google.com/file/d/1L1n96VT44BJGh9bBQKP8rtKDJ5pkIIZC/view?usp=sharing">-->
 
