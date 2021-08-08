@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/84338935/128629915-85531e21-3144-4c6a-
 
 <h2 align="center" id="Inspiration"> :label: Our Inspiration</h2>
 
-PV Hub is basically a **censorship free social media platform** which runs on Blockchain mechanism. Here, all the things which are being posted by the user are stored in IPFS cloud. The idea was generated during **HackACode 2021**. We ensure that there is no possibility of user's data breaching. We believe in-**User's Privacy & Security.**  
+PV Hub is basically a **censorship free social media platform** which runs on Blockchain mechanism. Here, all the things which are being posted by the user are stored through IPFS. The idea was generated during **HackACode 2021**. We ensure that there is no possibility of user's data breaching. We believe in-**User's Privacy & Security.**  
 
 
 <i><p align="center"><a href="#content">⬆️ CLICK HERE TO GO BACK TO CONTENTS</a></p></i><br>
