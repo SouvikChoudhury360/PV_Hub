@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PV_Hub/static/css/main.5a8df4d4.chunk.css",
+    "main.js": "/PV_Hub/static/js/main.dccc48e6.chunk.js",
+    "main.js.map": "/PV_Hub/static/js/main.dccc48e6.chunk.js.map",
+    "runtime-main.js": "/PV_Hub/static/js/runtime-main.7c839974.js",
+    "runtime-main.js.map": "/PV_Hub/static/js/runtime-main.7c839974.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/PV_Hub/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.6df23012.chunk.js": "/PV_Hub/static/js/2.6df23012.chunk.js",
+    "static/js/2.6df23012.chunk.js.map": "/PV_Hub/static/js/2.6df23012.chunk.js.map",
+    "index.html": "/PV_Hub/index.html",
+    "precache-manifest.e71ac4fee93964f3d63ceacc90fc82cc.js": "/PV_Hub/precache-manifest.e71ac4fee93964f3d63ceacc90fc82cc.js",
+    "service-worker.js": "/PV_Hub/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/PV_Hub/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.5a8df4d4.chunk.css.map": "/PV_Hub/static/css/main.5a8df4d4.chunk.css.map",
+    "static/js/2.6df23012.chunk.js.LICENSE.txt": "/PV_Hub/static/js/2.6df23012.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c839974.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.6df23012.chunk.js",
+    "static/css/main.5a8df4d4.chunk.css",
+    "static/js/main.dccc48e6.chunk.js"
+  ]
+}
