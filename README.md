@@ -294,18 +294,25 @@ Then add a title and description to your pull request that explains your preciou
 
 ![1) Front page](https://user-images.githubusercontent.com/84338935/128629989-1a495016-46af-4e70-8309-a929c688c906.png)
 
+<br>
 
 <h3 align="center">  Various Posts of User </h3>
 
 ![2) Posts of users](https://user-images.githubusercontent.com/84338935/128630016-9fe95cfb-2e21-40d4-86ff-af1546792bc8.png)
 
+<br>
+
 <h3 align="center"> Uploading a Video/GIF </h3>
 
 ![3) GIF Being uploaded](https://user-images.githubusercontent.com/84338935/128630040-b551fb9e-d587-4836-a08c-5a899f8d7690.png)
 
+<br>
+
 <h3 align="center"> ✔ Successfully been uploaded </h3>
 
 ![4) Uploaded Successfully](https://user-images.githubusercontent.com/84338935/128630062-a29bacbd-ca56-4f20-8047-8b4a5f54ad24.png)
+
+<br>
 
 <h3 align="center"> Permission from Metamask regarding the transaction </h3>
 
